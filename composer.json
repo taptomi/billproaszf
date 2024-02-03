@@ -16,5 +16,6 @@
     ],
     "require": {
         "illuminate/support": "^10.43"
-    }
+    },
+    "minimum-stability": "stable"
 }
